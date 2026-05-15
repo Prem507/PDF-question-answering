@@ -1,0 +1,13 @@
+
+streamlit
+pdfplumber
+groq
+sentence-transformers
+faiss-cpu
+nltk
+numpy
+SpeechRecognition
+pyttsx3
+pyaudio
+scikit-learn
+````
